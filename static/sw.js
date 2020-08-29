@@ -2,52 +2,52 @@ importScripts('/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/app.924d9a4.js",
-    "revision": "f14bfcf678693bf923f8dae9bc8c5048"
+    "url": "/_nuxt/app.802b47b.js",
+    "revision": "94a9fe8e1267581362d60a82b93c6b32"
   },
   {
-    "url": "/_nuxt/app.944f890.css",
-    "revision": "a226862bbc156e9cc45c428c05cdad15"
+    "url": "/_nuxt/app.bec4400.css",
+    "revision": "c634d7e57a5db9fe464c1b7e68d23dca"
   },
   {
-    "url": "/_nuxt/pages/blog/_slug.1d03ff6.js",
-    "revision": "8bd4427e114eeba79a0df837b7731b98"
+    "url": "/_nuxt/pages/blog/_slug.435d970.js",
+    "revision": "a00bb530c87ef6290abc4dc6ef34b40d"
   },
   {
     "url": "/_nuxt/pages/categories.464d25b.css",
     "revision": "49a73f71935b878ccb7f81c876cee4fb"
   },
   {
-    "url": "/_nuxt/pages/categories.b19ebb0.js",
-    "revision": "ae7626ee22b5dba2c265f0e76fa9ffb0"
+    "url": "/_nuxt/pages/categories.ce30e3c.js",
+    "revision": "0c11026699c9b3a96f7fb66c6ce641f3"
   },
   {
     "url": "/_nuxt/pages/category/_slug.464d25b.css",
     "revision": "49a73f71935b878ccb7f81c876cee4fb"
   },
   {
-    "url": "/_nuxt/pages/category/_slug.b38d15b.js",
-    "revision": "3f35f692caebc5d9a07fe0f13f4235a3"
+    "url": "/_nuxt/pages/category/_slug.e3bd969.js",
+    "revision": "6e7218ee770ed903d7771f45a07ec808"
   },
   {
-    "url": "/_nuxt/pages/index.d7a6584.js",
-    "revision": "4890db2d6595ff78c43e0dad7e5b688d"
+    "url": "/_nuxt/pages/index.5cbd6df.js",
+    "revision": "e317f5460a957b6f730ced2a733c1cbf"
   },
   {
     "url": "/_nuxt/pages/index.fc6cde2.css",
     "revision": "570a46bcac73e9592d39654829f3ca8a"
   },
   {
-    "url": "/_nuxt/pages/page/_slug.c7e519a.js",
-    "revision": "cf49dd036408965602063c314c674261"
+    "url": "/_nuxt/pages/page/_slug.1cf4d77.js",
+    "revision": "e76c72467c96eede116de4039c7ac159"
   },
   {
-    "url": "/_nuxt/runtime.0fbeed7.js",
-    "revision": "404d8f7eed43c40953d4f5c4a4a18b63"
+    "url": "/_nuxt/runtime.dd9b0ae.js",
+    "revision": "19a3ddbf146b6f8f269b6a973175668c"
   },
   {
-    "url": "/_nuxt/vendors/commons.ab108ce.js",
-    "revision": "87288760638c76e3ca2d2ae14cacc046"
+    "url": "/_nuxt/vendors/commons.067763f.js",
+    "revision": "889e5007ba507df8c48f2cbd669d0176"
   }
 ], {
   "cacheId": "bael-cms-template",

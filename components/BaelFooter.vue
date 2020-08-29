@@ -58,16 +58,7 @@
                 </ul>
             </div>
         </div>
-        <div class="xs-text-left xs-p2 xs-border" :class="signupAboutSize">
-            <div class="item">
-                <div class="footer__heading xs-mb2">Deploy</div>
 
-                <a href="https://app.netlify.com/start/deploy?repository=https://github.com/jake-101/bael-template">
-            <img style="height:29px;width:auto;" src="~/assets/deploy.svg" title="Deploy to Netlify">
-          </a>
-
-            </div>
-        </div>
         <div class="c-12 xs-text-left xs-p2 xs-border">
             <div class="item xs-text-6">Maintained by 
                 <a href="https://github.com/EricTalv/">Eric</a>
